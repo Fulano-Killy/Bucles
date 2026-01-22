@@ -1,1 +1,3 @@
-# no
+# No external dependencies required for core logic.
+# Uses Python 3.8+ standard libraries: math, collections.
+
