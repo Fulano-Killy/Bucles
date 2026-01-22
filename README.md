@@ -32,6 +32,8 @@ if status["status"] == "CRITICAL":
     # Implement mitigation logic (e.g., increase temperature or reset buffer)```
 
 
+---
+
 
 ##📊 Benefits
  * Resource Saving: Stops useless token generation instantly.
