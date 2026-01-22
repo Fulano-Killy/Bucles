@@ -40,5 +40,14 @@ if status["status"] == "CRITICAL":
 ## 🤝 Contributing
 Engineers and data scientists are welcome to contribute to optimizing the threshold algorithms.
 
+---
+
+## 📊 Proof of Concept (Live Diagnostic)
+
+The following output demonstrates the engine in action. It monitors the token stream, calculates the entropy floor, and triggers a critical alarm when a deterministic loop is detected:
+
+![Terminal Output]
+(Screenshot_20260122_142721.jpg)
+
 
 
